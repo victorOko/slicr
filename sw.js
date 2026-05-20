@@ -1,4 +1,4 @@
-const CACHE = 'splitcalc-v1';
+const CACHE = 'splitcalc-v2';
 const ASSETS = [
   '/',
   '/index.html',

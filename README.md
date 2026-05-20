@@ -4,6 +4,8 @@ A minimal PWA for splitting an investment amount 70/30 between FZROX and FZILX (
 
 Live: https://slicr.netlify.app
 
+Auto-deploys from `main` via Netlify <-> GitHub integration.
+
 ## Deploy
 
 This repo is linked to Netlify and auto-deploys from `main`.
